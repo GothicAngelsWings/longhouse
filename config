@@ -1,0 +1,91 @@
+/*
+
+     Multi-Loc Config
+     Originally by Athelon
+
+     Modified by Withheld
+
+*/
+/*
+  THE LONGHOUSE – Multi-Room Build
+  Immersive Viking Settlement
+*/
+
+var multiConfig = {
+  "THISROOM": "longhouse",
+  "locationColor": "#c9b37e",
+  "locationBackground": "#1a1a1a",
+  "currentView": "",
+  "viewList": [
+    "traininggrounds",
+    "docks",
+    "forest",
+    "eirikr",
+    "healersroom",
+    "bathhouse",
+    "korbuscabin",
+    "keldascabin",
+    "longhousehall"
+  ],
+  "defaultView": "longhousehall"
+};
+
+var roomstuff = {
+  "rooms": {
+
+    "traininggrounds": {
+      "rName": "Training Grounds",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/traininggroundsbackground.jpeg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/traininggrounds.jpg'><br><i>Steel meets will beneath open sky.</i></center>"
+    },
+
+    "docks": {
+      "rName": "The Docks",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/Docksbackground.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Dockstop.jpg'><br><i>The edge of the world begins here.</i></center>"
+    },
+
+    "forest": {
+      "rName": "The Forest",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/forestback.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/foresttopforwoods.jpg'><br><i>The woods watch everything.</i></center>"
+    },
+
+    "eirikr": {
+      "rName": "Eirikr’s Room",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/EirikrsbackgroundUSE.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/EirikrsHOME.png'><br><i>Authority carried in silence.</i></center>"
+    },
+
+    "healersroom": {
+      "rName": "The Healer’s Room",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/healersbackground.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/healersroom.jpeg'><br><i>Pain enters here—and leaves changed.</i></center>"
+    },
+
+    "bathhouse": {
+      "rName": "The Bath House",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/bathbackground.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/bathhouse.jpg'><br><i>Steel is set aside. Steam tells the truth.</i></center>"
+    },
+
+    "korbuscabin": {
+      "rName": "Korbus’s Cabin",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/korbuscabinbackground.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Korbuscabinfirstpick.jpg'><br><i>Not yet a legend—becoming one.</i></center>"
+    },
+
+    "keldascabin": {
+      "rName": "Kelda’s Cabin",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/keldabackground.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/keldascabin.jpg'><br><i>Some truths are whispered.</i></center>"
+    },
+
+    "longhousehall": {
+      "rName": "The Great Longhouse Hall",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Longhouseroompagebackroomtop.png'><br><i>All paths lead back to the fire.</i></center>",
+      "roombottom": "<center><img src='https://soi-longhous.hyperchat.com/bottomlayerforlonghouse.jpg'></center>"
+    }
+
+  }
+};
