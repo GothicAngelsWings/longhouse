@@ -53,7 +53,7 @@ var roomstuff = {
 
     "eirikr": {
       "rName": "Eirikr’s Room",
-      "backgroundImage": "https://soi-longhous.hyperchat.com/EirikrsbackgroundUSE.jpg",
+      "backgroundImage": "https://soi-testwork.hyperchat.com/bg.jpg",
       "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/EirikrsHOME.png'><br><i>Authority carried in silence.</i></center>"
     },
 
