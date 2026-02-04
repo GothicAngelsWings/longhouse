@@ -36,56 +36,66 @@ var roomstuff = {
     "traininggrounds": {
       "rName": "Training Grounds",
       "backgroundImage": "https://soi-longhous.hyperchat.com/traininggroundsbackground.jpeg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/traininggrounds.jpg'><br><i>Steel meets will beneath open sky.</i></center>"
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/traininggrounds.jpg'><br><i>Steel meets will beneath open sky.</i></center>",
+      "roomdesc": "The earth here is packed hard by countless drills and fallen sweat. Wooden dummies stand scarred and splintered, silent witnesses to lessons learned the painful way. Shouts, steel, and stubborn will shape more than warriors here — they shape resolve."
     },
 
     "docks": {
       "rName": "The Docks",
       "backgroundImage": "https://soi-longhous.hyperchat.com/Docksbackground.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Dockstop.jpg'><br><i>The edge of the world begins here.</i></center>"
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Dockstop.jpg'><br><i>The edge of the world begins here.</i></center>",
+      "roomdesc": "Salt hangs heavy in the air, clinging to rope and timber alike. Longships rest against the piers, their hulls marked by journeys made and journeys yet to come. News, blood, and fate all arrive here by water."
     },
 
     "forest": {
       "rName": "The Forest",
       "backgroundImage": "https://soi-longhous.hyperchat.com/forestback.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/foresttopforwoods.jpg'><br><i>The woods watch everything.</i></center>"
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/foresttopforwoods.jpg'><br><i>The woods watch everything.</i></center>",
+      "roomdesc": "The trees close in as if listening. Moss softens every step, and shadows stretch longer than they should. Those who enter know the forest does not belong to them — they are merely allowed passage."
     },
 
     "eirikr": {
       "rName": "Eirikr’s Room",
       "backgroundImage": "https://soi-testwork.hyperchat.com/bg.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/EirikrsHOME.png'><br><i>Authority carried in silence.</i></center>"
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/EirikrsHOME.png'><br><i>Authority carried in silence.</i></center>",
+      "roomdesc": "This chamber carries weight. Furs line the walls and trophies are placed with purpose. Decisions are forged here in quiet moments, long before they are spoken aloud."
     },
 
     "healersroom": {
       "rName": "The Healer’s Room",
       "backgroundImage": "https://soi-longhous.hyperchat.com/healersbackground.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/healersroom.jpeg'><br><i>Pain enters here—and leaves changed.</i></center>"
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/healersroom.jpeg'><br><i>Pain enters here—and leaves changed.</i></center>",
+      "roomdesc": "The scent of herbs and smoke lingers, masking pain but never erasing it. Cots line the walls, each having borne someone at their weakest. Here, wounds are tended — both seen and unseen."
     },
 
     "bathhouse": {
       "rName": "The Bath House",
       "backgroundImage": "https://soi-longhous.hyperchat.com/bathbackground.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/bathhouse.jpg'><br><i>Steel is set aside. Steam tells the truth.</i></center>"
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/bathhouse.jpg'><br><i>Steel is set aside. Steam tells the truth.</i></center>",
+      "roomdesc": "Steam rolls thick through the room, blurring faces and softening truths. Weapons and titles are left outside. In the heat, scars speak louder than words."
     },
 
     "korbuscabin": {
       "rName": "Korbus’s Cabin",
       "backgroundImage": "https://soi-longhous.hyperchat.com/korbuscabinbackground.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Korbuscabinfirstpick.jpg'><br><i>Not yet a legend—becoming one.</i></center>"
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Korbuscabinfirstpick.jpg'><br><i>Not yet a legend—becoming one.</i></center>",
+      "roomdesc": "Simple, worn, and honest. Every tool here has purpose, every mark tells a story. Greatness has not yet arrived — but it is quietly being forged."
     },
 
     "keldascabin": {
       "rName": "Kelda’s Cabin",
       "backgroundImage": "https://soi-longhous.hyperchat.com/keldabackground.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/keldascabin.jpg'><br><i>Some truths are whispered.</i></center>"
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/keldascabin.jpg'><br><i>Some truths are whispered.</i></center>",
+      "roomdesc": "Low light and quiet corners define this space. Charms, keepsakes, and half-finished thoughts linger in the air. Some truths are spoken softly here — others never leave at all."
     },
 
     "longhousehall": {
       "rName": "The Great Longhouse Hall",
       "backgroundImage": "https://soi-longhous.hyperchat.com/bottomlayerforlonghouse.jpg",
       "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Longhouseroompagebackroomtop.png'><br><i>All paths lead back to the fire.</i></center>",
+      "roomdesc": "Firelight dances across timber beams darkened by age and smoke. Voices gather, meals are shared, and disputes are settled beneath one roof. No matter where one wanders, this hall remains the heart."
     }
 
   }
 };
+
