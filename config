@@ -55,7 +55,7 @@ var roomstuff = {
     },
 
     "eirikr": {
-      "rName": "Eirikr’s Room",
+      "rName": "Eirikr’s Cabin",
       "backgroundImage": "https://soi-testwork.hyperchat.com/bg.jpg",
       "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/EirikrsHOME.png'><br><i>Authority carried in silence.</i></center>",
       "roomdesc": "This chamber carries weight. Furs line the walls and trophies are placed with purpose. Decisions are forged here in quiet moments, long before they are spoken aloud."
