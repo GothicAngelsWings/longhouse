@@ -83,8 +83,8 @@ var roomstuff = {
 
     "longhousehall": {
       "rName": "The Great Longhouse Hall",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/bottomlayerforlonghouse.jpg",
       "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Longhouseroompagebackroomtop.png'><br><i>All paths lead back to the fire.</i></center>",
-      "roombottom": "<center><img src='https://soi-longhous.hyperchat.com/bottomlayerforlonghouse.jpg'></center>"
     }
 
   }
