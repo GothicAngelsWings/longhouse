@@ -25,6 +25,7 @@ var multiConfig = {
     "bathhouse",
     "korbuscabin",
     "keldascabin",
+    "astrid".
     "longhousehall"
   ],
   "defaultView": "longhousehall"
