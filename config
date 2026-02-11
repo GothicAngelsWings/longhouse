@@ -89,6 +89,13 @@ var roomstuff = {
       "roomdesc": "Low light and quiet corners define this space. Charms, keepsakes, and half-finished thoughts linger in the air. Some truths are spoken softly here — others never leave at all."
     },
 
+     "astrid": {
+      "rName": "Astrid's Alcove",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/Astrid-Alcove-Furbackground.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Astrid-Alcove.png'><br><i>Happy within her creations.</i></center>",
+      "roomdesc": "Low light and quiet corners define this space. Charms, keepsakes, and half-finished thoughts linger in the air. Some truths are spoken softly here — others never leave at all."
+    },
+
     "longhousehall": {
       "rName": "The Great Longhouse Hall",
       "backgroundImage": "https://soi-longhous.hyperchat.com/bottomlayerforlonghouse.jpg",
