@@ -2,7 +2,6 @@
 
      Multi-Loc Config
      Originally by Athelon
-
      Modified by Withheld
 
 */
@@ -17,18 +16,17 @@ var multiConfig = {
   "locationBackground": "#1a1a1a",
   "currentView": "",
   "viewList": [
-  "traininggrounds",
-  "docks",
-  "forest",
-  "eirikr",
-  "healersroom",
-  "bathhouse",
-  "korbuscabin",
-  "keldascabin",
-  "astrid",
-  "longhousehall"
-],
-
+    "traininggrounds",
+    "docks",
+    "forest",
+    "eirikr",
+    "healersroom",
+    "bathhouse",
+    "korbuscabin",
+    "keldascabin",
+    "astrid",
+    "longhousehall"
+  ],
   "defaultView": "longhousehall"
 };
 
@@ -91,11 +89,11 @@ var roomstuff = {
       "roomdesc": "Low light and quiet corners define this space. Charms, keepsakes, and half-finished thoughts linger in the air. Some truths are spoken softly here — others never leave at all."
     },
 
-     "astrid": {
+    "astrid": {
       "rName": "Astrid's Alcove",
       "backgroundImage": "https://soi-longhous.hyperchat.com/Astrid-Alcove-Furbackground.jpg",
       "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Astrid-Alcove.png'><br><i>Happy within her creations.</i></center>",
-      "roomdesc": "“Soft furs, scattered threads, and half-finished creations fill this alcove. Here, hands stay busy and the world feels quieter. Beauty is built slowly — stitch by stitch."
+      "roomdesc": "A cozy creative nook filled with textures, furs, and quiet focus. Here, craft replaces chaos and every piece made carries a little bit of the maker's spirit."
     },
 
     "longhousehall": {
