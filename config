@@ -16,19 +16,18 @@ var multiConfig = {
   "locationBackground": "#1a1a1a",
   "currentView": "",
   "viewList": [
-  "traininggrounds",
-  "docks",
-  "forest",
-  "eirikr",
-  "healersroom",
-  "bathhouse",
-  "korbuscabin",
-  "keldascabin",
-  "astrid",
-  "longhousehall",
-  "outerring"
-],
-
+    "traininggrounds",
+    "docks",
+    "forest",
+    "eirikr",
+    "healersroom",
+    "bathhouse",
+    "korbuscabin",
+    "keldascabin",
+    "astrid",
+    "longhousehall",
+    "outerring"
+  ],
   "defaultView": "longhousehall"
 };
 
@@ -103,14 +102,15 @@ var roomstuff = {
       "backgroundImage": "https://soi-longhous.hyperchat.com/bottomlayerforlonghouse.jpg",
       "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Longhouseroompagebackroomtop.png'><br><i>All paths lead back to the fire.</i></center>",
       "roomdesc": "Firelight dances across timber beams darkened by age and smoke. Voices gather, meals are shared, and disputes are settled beneath one roof. No matter where one wanders, this hall remains the heart."
+    },
+
+    "outerring": {
+      "rName": "The Outer Ring",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/OOCbackgrounduse.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/OOCtopuse.png'><br><i>Where voices speak beyond the saga.</i><br></center>",
+      "roomdesc": "This quiet chamber sits just beyond the fire circle. Here, warriors set down their weapons and speak plainly. The walls remember stories not yet told, and the hearth glows with warmth not bound to any one tale. It is a space for reflection, connection, and the truths that live outside the saga."
     }
 
-"outerring": {
-  "rName": "The Outer Ring",
-  "backgroundImage": "https://soi-longhous.hyperchat.com/OOCbackgrounduse.jpg",
-  "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/OOCtopuse.png'><br><i>Where voices speak beyond the saga.</i><br></center>",
-  "roomdesc": "This quiet chamber sits just beyond the fire circle. Here, warriors set down their weapons and speak plainly. The walls remember stories not yet told, and the hearth glows with warmth not bound to any one tale. It is a space for reflection, connection, and the truths that live outside the saga."
-}
   }
 };
 
