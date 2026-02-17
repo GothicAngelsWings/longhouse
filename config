@@ -1,18 +1,5 @@
-/*
-
-     Multi-Loc Config
-     Originally by Athelon
-     Modified by Withheld
-
-*/
-
-/*
-  THE LONGHOUSE – Multi-Room Build
-  Immersive Viking Settlement
-*/
-
 var multiConfig = {
-  "THISROOM": "longhous",   // ← THIS MUST MATCH YOUR REAL ROOM NAME
+  "THISROOM": "longhous",   
   "locationColor": "#c9b37e",
   "locationBackground": "#1a1a1a",
   "currentView": "",
