@@ -5,13 +5,14 @@
      Modified by Withheld
 
 */
+
 /*
   THE LONGHOUSE – Multi-Room Build
   Immersive Viking Settlement
 */
 
 var multiConfig = {
-  "THISROOM": "longhouse",
+  "THISROOM": "longhous",   // ← THIS MUST MATCH YOUR REAL ROOM NAME
   "locationColor": "#c9b37e",
   "locationBackground": "#1a1a1a",
   "currentView": "",
@@ -108,7 +109,7 @@ var roomstuff = {
       "rName": "The Outer Ring",
       "backgroundImage": "https://soi-longhous.hyperchat.com/OOCbackgrounduse.jpg",
       "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/OOCtopuse.png'><br><i>Where voices speak beyond the saga.<BR>THIS IS AN OOC VIEW</i><br></center>",
-      "roomdesc": "This quiet chamber sits just beyond the fire circle. Here, warriors set down their weapons and speak plainly. The walls remember stories not yet told, and the hearth glows with warmth not bound to any one tale. It is a space for reflection, connection, and the truths that live outside the saga."
+      "roomdesc": "This quiet chamber sits just beyond the fire circle. Here, warriors set down their weapons and speak plainly. The walls remember stories not yet told, and the hearth glows with warmth not bound to any one tale."
     }
 
   }
