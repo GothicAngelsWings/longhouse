@@ -5,6 +5,7 @@ var multiConfig = {
   "currentView": "",
   "viewList": [
     "traininggrounds",
+    "stables".
     "docks",
     "forest",
     "eirikr",
@@ -28,6 +29,12 @@ var roomstuff = {
       "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/traininggrounds.jpg'><br><i>Steel meets will beneath open sky.</i></center>",
       "roomdesc": "The earth here is packed hard by countless drills and fallen sweat. Wooden dummies stand scarred and splintered, silent witnesses to lessons learned the painful way. Shouts, steel, and stubborn will shape more than warriors here — they shape resolve."
     },
+    "stables": { 
+    "rName": "The Longhouse Stables", 
+    "backgroundImage": "https://soi-longhous.hyperchat.com/stables-hay-background.jpg",
+    "roomtop": "<center><img src='https://soi-testwork.hyperchat.com/HorseStables.png'><br><i>Warm breath and quiet hooves.</i></center>", 
+    "roomdesc": "Lanterns glow softly against timber beams, casting warm light across the stalls. Horses shift in their bedding, breath fogging in the cool air. Leather tack hangs neatly on the walls, worn smooth by years of hands. This place is more than shelter — it is a quiet heart of the settlement, where mounts rest and riders find a moment of peace."
+    }
 
     "docks": {
       "rName": "The Docks",
