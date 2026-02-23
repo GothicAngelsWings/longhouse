@@ -34,7 +34,7 @@ var roomstuff = {
     "backgroundImage": "https://soi-longhous.hyperchat.com/stables-hay-background.jpg",
     "roomtop": "<center><img src='https://soi-testwork.hyperchat.com/HorseStables.png'><br><i>Warm breath and quiet hooves.</i></center>", 
     "roomdesc": "Lanterns glow softly against timber beams, casting warm light across the stalls. Horses shift in their bedding, breath fogging in the cool air. Leather tack hangs neatly on the walls, worn smooth by years of hands. This place is more than shelter — it is a quiet heart of the settlement, where mounts rest and riders find a moment of peace."
-    }
+    },
 
     "docks": {
       "rName": "The Docks",
