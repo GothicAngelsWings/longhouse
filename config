@@ -5,7 +5,7 @@ var multiConfig = {
   "currentView": "",
   "viewList": [
     "traininggrounds",
-    "stables".
+    "stables",
     "docks",
     "forest",
     "eirikr",
