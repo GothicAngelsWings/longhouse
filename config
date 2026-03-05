@@ -62,7 +62,7 @@ var roomstuff = {
     "brunwulf": {
       "rName": "Brunwulf's Smithy",
       "backgroundImage": "https://soi-longhous.hyperchat.com/smithybackground.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/smithy.jpg'><br><i>Authority carried in silence.</i></center>",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/smithy.jpg'><br><i>Forged in strength and power.</i></center>",
       "roomdesc": "The anvil holds the memory of a hundred winters, and the forge breathes like something ancient. Here, metal is awakened, not merely worked."
     },
 
@@ -111,7 +111,7 @@ var roomstuff = {
     "stables": {
       "rName": "The Stables",
       "backgroundImage": "https://soi-longhous.hyperchat.com/horsestableback.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/horsestables.jpg'><br><i>All paths lead back to the fire.</i></center>",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/horsestables.jpg'><br><i>A steed is more then a way to a path</i></center>",
       "roomdesc": "Leather, sweat, and steady breath fill this place. The horses stand calm and watchful, as if they understand the work of the hall. Their presence is a reminder that not all strength is forged in fire."
     },
 
