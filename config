@@ -62,7 +62,7 @@ var roomstuff = {
     "brunwulf": {
       "rName": "Brunwulf's Smithy",
       "backgroundImage": "https://soi-longhous.hyperchat.com/smithybackground.jpg",
-      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/smithy.jpgg'><br><i>Authority carried in silence.</i></center>",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/smithy.jpg'><br><i>Authority carried in silence.</i></center>",
       "roomdesc": "The anvil holds the memory of a hundred winters, and the forge breathes like something ancient. Here, metal is awakened, not merely worked."
     },
 
