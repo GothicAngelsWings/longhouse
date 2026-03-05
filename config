@@ -9,12 +9,14 @@ var multiConfig = {
     "docks",
     "forest",
     "eirikr",
+    "brunwulf",
     "healersroom",
     "bathhouse",
     "korbuscabin",
     "keldascabin",
     "astrid",
     "longhousehall",
+    "stables",
     "outerring"
   ],
   "defaultView": "longhousehall"
@@ -57,6 +59,13 @@ var roomstuff = {
       "roomdesc": "This chamber carries weight. Furs line the walls and trophies are placed with purpose. Decisions are forged here in quiet moments, long before they are spoken aloud."
     },
 
+    "brunwulf": {
+      "rName": "Brunwulf's Smithy",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/smithybackground.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/smithy.jpgg'><br><i>Authority carried in silence.</i></center>",
+      "roomdesc": "The anvil holds the memory of a hundred winters, and the forge breathes like something ancient. Here, metal is awakened, not merely worked."
+    },
+
     "healersroom": {
       "rName": "The Healer’s Room",
       "backgroundImage": "https://soi-longhous.hyperchat.com/healersbackground.jpg",
@@ -97,6 +106,13 @@ var roomstuff = {
       "backgroundImage": "https://soi-longhous.hyperchat.com/bottomlayerforlonghouse.jpg",
       "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/Longhouseroompagebackroomtop.png'><br><i>All paths lead back to the fire.</i></center>",
       "roomdesc": "Firelight dances across timber beams darkened by age and smoke. Voices gather, meals are shared, and disputes are settled beneath one roof. No matter where one wanders, this hall remains the heart."
+    },
+
+    "stables": {
+      "rName": "The Stables",
+      "backgroundImage": "https://soi-longhous.hyperchat.com/horsestableback.jpg",
+      "roomtop": "<center><img src='https://soi-longhous.hyperchat.com/horsestables.jpg'><br><i>All paths lead back to the fire.</i></center>",
+      "roomdesc": "Leather, sweat, and steady breath fill this place. The horses stand calm and watchful, as if they understand the work of the hall. Their presence is a reminder that not all strength is forged in fire."
     },
 
     "outerring": {
